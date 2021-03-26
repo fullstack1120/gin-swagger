@@ -10,7 +10,7 @@ import (
 	"golang.org/x/net/webdav"
 
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag"
+	"github.com/fullstack1120/swag"
 )
 
 // Config stores ginSwagger configuration variables.
